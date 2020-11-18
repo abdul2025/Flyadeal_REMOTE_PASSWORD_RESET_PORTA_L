@@ -7,6 +7,6 @@ Django (Python), Navitaire API, Javascript (UI), Flyadeal Notification API... et
 ### CODE Source Is Secoure
 
 
-### IMAGES
 
-<img src="images/HomePage.png">
+<img src=“images/HOME_LOADING.jpg”>
+![GitHub Logo](/images/HOME_LOADING.jpg)
