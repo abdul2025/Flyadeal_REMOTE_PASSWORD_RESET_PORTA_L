@@ -6,5 +6,14 @@ Django (Python), Navitaire API, Javascript (UI), Flyadeal Notification API... et
 
 ### CODE Source Is Secoure
 
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HomePage.png 23”>
+HOME PAGE
+![Image of Yaktocat](https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HomePage.png)
 
+HOME_ID
+![Image of Yaktocat](https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HOEM_ID.png)
+
+HOME_DATE
+![Image of Yaktocat](https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HOME_DATE.png)
+
+HOME_LOADING
+![Image of Yaktocat](https://github.com/abdul2025/Flyadeal_REMOTE_PASSWORD_RESET_PORTA_L/blob/main/Images/HOME_LOADING.jpg)
