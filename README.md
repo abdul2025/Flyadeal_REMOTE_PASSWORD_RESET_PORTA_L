@@ -10,3 +10,12 @@ Django (Python), Navitaire API, Javascript (UI), Flyadeal Notification API... et
 
 <img src=“/images/HOME_LOADING.jpg”>
 ![GitHub Logo](/images/HOME_LOADING.jpg)
+
+
+<img
+src=“images/HOME_LOADING.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
